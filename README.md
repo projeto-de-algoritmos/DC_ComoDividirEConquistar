@@ -13,7 +13,7 @@
 Nosso projeto tem como objetivo monitorar o tráfego aéreo de uma determinada linha área qualquer. Sabemos que no dia a dia, muitos vôos acontecem ao mesmo tem em locais muito próximos, portanto é necessário uma logística e monitoramento para evitar que possíveis colisões aconteçam. Sem falar que o controle do tráfego áereo orientam e monitoram o percuso da aeronave, garantindo um fluxo seguro, ordenado e expedito.
 
 ## Screenshots
-<img src="/midias/entradas.png" alt="Github" width="800"/>
+<img src="/midias/entradas.png" alt="Github" width="500"/>
 <img src="/midias/resultado.png" alt="Github" width="800"/>
 
 ## Instalação 
